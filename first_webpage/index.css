@@ -13,3 +13,15 @@ h1, h3{
     /* border:2px solid red; */
     width:40%;
 }
+.pets{
+    font-size:larger;
+}
+.petlisttext{
+    text-align:center;
+    font-weight:bolder;
+
+}
+.petlist>ul{
+    list-style:none;
+    text-align:center;
+}
